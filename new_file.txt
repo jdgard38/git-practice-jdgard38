@@ -1,1 +1,1 @@
-new information for the file
+This is my first file.
