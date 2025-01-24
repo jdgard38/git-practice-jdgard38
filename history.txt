@@ -1,0 +1,164 @@
+    1  git --version
+    2  git config --global use.name "JD Gardner"
+    3  git config --global user.email"jdgard33@byu.edu"
+    4  git config --global core.editor "code --wait"
+    5  git config --global init.defaultBranch main
+   17  git --version
+   18  git config list
+   20  git config --global user.name 'JD Gardner"
+   21  git config --global user.name 'JD Gardner'
+   22  git config --global user.email 'jdgard33@byu.edu'
+   26  git config --global core.editor "code --wait"
+   27  git config --global init.defaultBranch main
+   28  git --config list
+   33  git clone  https://github.com/esnt/stat386-blog-theme.git
+   34  git clone 
+   35  git clone git@github.com:esnt/stat386-blog-theme.git
+   36  git clone https://github.com/esnt/stat386-blog-theme.git
+   37  git status
+   39  git add stat386-
+   40  git add stat386-blog-theme/
+   43  git remote set-url origin https://github.com/jdgard38/my-blog.git
+   44  git add .
+   45  git commit -m "commit theme files"
+   46  git push origin main
+   51  git status
+   55  git status
+   57  cd gitPractice/
+   58  git status
+   59  git branch
+   60  git switch
+   79  mkdir gitPractice
+   81  cd gitPractice/
+   84  cd gitPractice/
+   85  git status
+   86  git init
+   87  git status
+   92  git status
+   93  git add new_file.txt 
+   94  git status
+   95  git commit -m 'first commit'
+   96  git status
+   97  git config --global user.email 'jdgard33@byu.edu'
+   98  git config -- global user.name 'jdgard38'
+   99  git config --global user.name 'jdgard38'
+  100  git commit -m first commit
+  101  git status
+  102  git commit -m 'first commit'
+  103  git status
+  104  git add .
+  105  git status
+  106  git add . 
+  107  git status
+  108  git commit -m 'Update to the new_file'
+  109  git status
+  110  git checkout 43d5
+  111  git switch -
+  112  git status
+  117  git add file_2.txt
+  119  git status
+  120  git add file_2.txt
+  121  git stus
+  122  git status
+  123  git commit -m 'create new files'
+  124  git status
+  125  git log
+  126  git status
+  127  git add new_file.txt
+  128  git status
+  129  git commit -m 'only file 1'
+  130  git status
+  131  git add file_2.txt
+  132  git commit -m 'file 2 added'
+  133  git log
+  139  git status
+  142  git status
+  147  git add Readme.md 
+  148  git status
+  149  git commit -m 'Readme file commited'
+  150  git status
+  151  touch .gitignore
+  154  git add .gitignore
+  155  git commit -m 'git ignore commited'
+  158  git status
+  159  git status
+  160  git status
+  161  git add .gitignore
+  162  git commit -m 'git ignore updated'
+  163  git status
+  164  git branch features
+  165  git witch features
+  166  git switch features
+  173  git status
+  174  git add new_features.txt 
+  175  git commit -m 'add empty file'
+  176  git status
+  177  git status
+  178  git add new_features.txt 
+  179  git commit -m 'updated with text'
+  180  git status
+  182  git switch main
+  184  git status
+  185  git add new_file.txt 
+  186  git commit -m 'new text part H'
+  187  git merge
+  188  git merge branch-to-merge
+  189  git merge features-to-main
+  190  git merge features-to-merge
+  191  git merge features
+  192  git log
+  193  git status
+  194  git add new_features.txt 
+  195  git commit -m 'part i'
+  196  git status
+  197  git branch features
+  198  git features
+  199  git log --oneline
+  210  cd git
+  211  cd gitPractice/
+  227  git status
+  228  git status
+  229  git add _config.yml 
+  230  git commit -m 'updated config page'
+  231  git push
+  232  git add _config.yml 
+  233  git commit -m 'new change'
+  234  git push
+  236  cd code386/gitPractice/
+  238  git log
+  239  git status
+  241  git branch
+  242  git branch features
+  244  git switch
+  245  git switch features
+  246  git status
+  247  git add new_features.txt 
+  248  git commit -m 'part I'
+  249  git switch main
+  250  git merge
+  251  git merge features 
+  252  git add new_features.txt 
+  253  git commit -m 'part I merge'
+  254  git branch -d features
+  255  git remote add origin https://github.com/jdgard38/git-practice-jdgard38.git
+  256  git push -u origin main
+  257  git branch feature-jd-gardner
+  258  git branch feature-jdgard38
+  259  git branch -d feature-jd-gardner
+  260  git branch -d feature-jdgard38 
+  261  git clone https://github.com/jdgard38/git-practice-kelsjens.git
+  264  cd git-practice-kelsjens/
+  265  git branch feature-jdgard38
+  267  git add new_file_jd 
+  268  git commit -m 'this is a new file'
+  269  git push origin feature-jdgard38
+  270  git switch 
+  271  git switch feature-jdgard38 
+  272  git git add new_file_jd
+  273  git commit -m 'add'
+  274  git add new_file_jd 
+  275  git commit -m 'add'
+  276  git switch feature-jdgard38 
+  285  cd gitPractice/
+  286  git log --oneline > gitlog.txt
+  287  history | grep git > history.txt

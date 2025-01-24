@@ -1,0 +1,15 @@
+e16fd30 part I merge
+4a22af9 part I
+8677983 part i
+04d1683 Merge branch 'features'
+d438221 new text part H
+1a48935 updated with text
+6a55992 add empty file
+994a526 git ignore updated
+b9a95ef git ignore commited
+762208e Readme file commited
+95e63e6 file 2 added
+b427995 only file 1
+7f07a4c create new files
+43d5370 Update to the new_file
+cda69cb first commit
